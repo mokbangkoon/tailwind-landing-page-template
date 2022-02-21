@@ -18,8 +18,8 @@ function ResetPassword() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1 mb-4">Let’s get you back up on your feet</h1>
-                <p className="text-xl text-gray-600">Enter the email address you used when you signed up for your account, and we’ll email you a link to reset your password.</p>
+                <h1 className="h1 mb-4">뭐가바뀌는지보자</h1>
+                <p className="text-xl text-gray-600">아이디비밀번호 적어봐</p>
               </div>
 
               {/* Form */}
